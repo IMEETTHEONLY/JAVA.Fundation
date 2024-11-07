@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fundation/fundation.iml" filepath="$PROJECT_DIR$/fundation/fundation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_fundation.iml" filepath="$PROJECT_DIR$/.idea/java_fundation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myio/myio.iml" filepath="$PROJECT_DIR$/myio/myio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myiotest/myiotest.iml" filepath="$PROJECT_DIR$/myiotest/myiotest.iml" />
+    </modules>
+  </component>
+</project>
