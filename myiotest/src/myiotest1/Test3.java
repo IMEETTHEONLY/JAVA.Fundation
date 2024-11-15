@@ -20,8 +20,8 @@ public class Test3 {
         ArrayList<String> list=new ArrayList<>();
 
         //2.从文件当中读取数据
-        //这里只能写绝对路径，
-        FileUtil.readLines("D:\\java基础代码\\java_fundation\\myiotest\\name.txt","UTF-8",list);
+        //这里只能写绝对路径，读取的是当前目录下的name.txt,hutool包的这个方法只能读取绝对路径
+        FileUtil.readLines("D:\\java_code\\java_fundation\\myiotest\\name.txt","UTF-8",list);
         System.out.println(list);
 
         //3.用collection的shuffle函数打乱顺序实现随机
